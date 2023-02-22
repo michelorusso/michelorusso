@@ -28,10 +28,10 @@ Mi interesso alle intelligenze artificiali e allo sviluppo di videogames.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-</div>
-
-<div align=center>
-<h2>My skills</h2>
+  <h2>My GitHub Stats</h2>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelorusso&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelorusso&show_icons=true&theme=onedark)
+  
 </div>
+
