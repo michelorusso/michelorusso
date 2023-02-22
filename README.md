@@ -29,3 +29,5 @@ Mi interesso alle intelligenze artificiali e allo sviluppo di videogames.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
+
+![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelelorusso&show_icons=true)
