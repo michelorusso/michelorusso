@@ -30,4 +30,4 @@ Mi interesso alle intelligenze artificiali e allo sviluppo di videogames.
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelorusso&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelelorusso&layout=compact&theme=radical)
