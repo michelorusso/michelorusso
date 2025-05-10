@@ -1,8 +1,19 @@
 
 <img src="https://art.pixilart.com/sr22063903b32f9.gif" />
 
-Sono un ragazzo intraprendete sempre alla ricerca di nuove avventure e con il desiderio di migliorare e mettermi in competizione , di innovarmi e crescere sia come persona che come lavoratore, in cerca di un luogo che mi sproni a migliorare.
-Mi interesso alle intelligenze artificiali e allo sviluppo di videogames.
+👋 Sono un Front-End Developer con oltre 3 anni di esperienza professionale, principalmente focalizzato sulla realizzazione di applicazioni web scalabili e performanti utilizzando React, TypeScript e Redux
+
+Ho una solida preparazione tecnica unita a oltre dieci anni di esperienza lavorativa reale in ambienti dinamici e ad alta pressione, che hanno rafforzato le mie competenze in comunicazione, lavoro di squadra e problem-solving.
+
+Parallelamente alla mia esperienza front-end, possiedo anche una formazione accademica e basi pratiche lato Back-End, avendo lavorato su progetti utilizzando PHP, Laravel e MySQL.
+Sono fortemente motivato a crescere e migliorare ulteriormente in ambito full-stack, se l’opportunità si presenta.
+
+Ho inoltre esperienza concreta nell'uso di Bootstrap e SCSS per la creazione di interfacce responsive, modulari e scalabili.
+
+Sono alla ricerca di nuove opportunità in team tecnologici dinamici e innovativi, specialmente in contesti internazionali come Irlanda ed Europa.
+
+🚀 Tecnologie principali: React, Redux, TypeScript, Bootstrap, Html, CSS.
+🧠 Conoscenze base / in fase di approfondimento: Next.js, Docker, PHP, Laravel, MySQL, Node.js, RTK Query, SCSS
 
 <div align=center>
 <h2>My skills</h2>
