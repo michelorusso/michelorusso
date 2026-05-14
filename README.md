@@ -2,19 +2,22 @@
   <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" alt="Pixel Art Developer Setup" width="100%"/>
 </div>
 
-👋 Sono un Front-End Developer con oltre 3 anni di esperienza professionale, principalmente focalizzato sulla realizzazione di applicazioni web scalabili e performanti utilizzando React, TypeScript e Redux
+👋 Sono un Front-End Developer con oltre 4 anni di esperienza professionale nello sviluppo di applicazioni web scalabili, performanti e manutenibili, utilizzando principalmente React, TypeScript e Redux.
 
-Ho una solida preparazione tecnica unita a oltre dieci anni di esperienza lavorativa reale in ambienti dinamici e ad alta pressione, che hanno rafforzato le mie competenze in comunicazione, lavoro di squadra e problem-solving.
+Alla preparazione tecnica affianco oltre dieci anni di esperienza lavorativa in contesti dinamici e ad alta pressione, che mi hanno permesso di sviluppare solide capacità di comunicazione, collaborazione in team e problem-solving.
 
-Parallelamente alla mia esperienza front-end, possiedo anche una formazione accademica e basi pratiche lato Back-End, avendo lavorato su progetti utilizzando PHP, Laravel e MySQL.
-Sono fortemente motivato a crescere e migliorare ulteriormente in ambito full-stack, se l’opportunità si presenta.
+Oltre al front-end, possiedo una formazione accademica e basi pratiche in ambito Back-End, maturate attraverso progetti realizzati con PHP, Laravel e MySQL.
+Sono motivato a continuare a crescere anche in ottica full-stack, approfondendo nuove tecnologie e ampliando progressivamente le mie competenze.
 
-Ho inoltre esperienza concreta nell'uso di Bootstrap e SCSS per la creazione di interfacce responsive, modulari e scalabili.
+Ho inoltre esperienza nella realizzazione di interfacce responsive, modulari e scalabili, seguendo un approccio mobile-first e utilizzando Bootstrap e SCSS.
 
-Sono alla ricerca di nuove opportunità in team tecnologici dinamici e innovativi, specialmente in contesti internazionali come Irlanda ed Europa.
+Nel tempo ho esplorato anche ambiti diversi dello sviluppo software, realizzando piccoli progetti e giochi con C# e Unity, oltre ad aver sperimentato Unreal Engine e il sistema Blueprint.
 
-🚀 Tecnologie principali: React, Redux, TypeScript, Bootstrap, Html, CSS.
-🧠 Conoscenze base / in fase di approfondimento: Next.js, Docker, PHP, Laravel, MySQL, Node.js, RTK Query, SCSS
+Sono interessato a nuove opportunità all’interno di team tecnologici dinamici e innovativi, con particolare apertura verso contesti internazionali, in particolare Irlanda ed Europa.
+
+🚀 Tecnologie principali: React, Redux, TypeScript, Bootstrap, HTML, CSS, SCSS.
+🧠 Conoscenze base / in fase di approfondimento: Java, Next.js, Docker, PHP, Laravel, MySQL, Node.js, RTK Query.
+🎮 Sperimentazioni: C#, Unity, Unreal Engine, Blueprint.
 
 <div align=center>
 <h2>My skills</h2>
