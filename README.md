@@ -1,5 +1,6 @@
-
-<img src="[https://art.pixilart.com/sr22063903b32f9.gif](https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif)" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/main/header.gif" alt="Pixel Art Developer Setup" width="100%"/>
+</div>
 
 👋 Sono un Front-End Developer con oltre 3 anni di esperienza professionale, principalmente focalizzato sulla realizzazione di applicazioni web scalabili e performanti utilizzando React, TypeScript e Redux
 
